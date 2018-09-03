@@ -1,4 +1,7 @@
-#Authentication
+#Authentication Demo App
+
+This is a demo web app to setup authentications, using passport, express-session, mongoose. 
+
 
 ##Intro to Auth
 * What tools are we using?
